@@ -28,26 +28,26 @@ For this project I used to following tools:
 <h2>Instructions:</h2>
 <br/>                                                                                                                              
 <div>
-    <span>1. Extract "FootballMatches_REST_API_Service_Node.js" folder and open it.
-    </span>
-    <span>2. Open the command prompt from the folder path.
-    </span>
-    <span>3. In order to set on the RESTful API Service - Write the following command in the console:
-    </span>
-     <span>node FootballGame.js
-    </span>
+    <h3>1. Extract "FootballMatches_REST_API_Service_Node.js" folder and open it.
+    </h3>
+    <h3>2. Open the command prompt from the folder path.
+    </h3>
+    <h3>3. In order to set on the RESTful API Service - Write the following command in the console:
+    </h3>
+     <h3>node FootballGame.js
+    </h3>
     <br/>
     <img src="Screenshots/Screenshot1.png" width="800">
     <br/>    <br/>        
 </div>
 <span>=================================================================================</span>
 <div>
-    <span>4. Open your browser.
-          </span>
-        <span>5. Navigate to: http://localhost:3000/
-          </span>
-    <span>6. •	Get a list of matches by team:            
-          </span>
+    <h3>4. Open your browser.
+          </h3>
+        <h3>5. Navigate to: http://localhost:3000/
+          </h3>
+    <h3>6. •	Get a list of matches by team:            
+          </h3>
     <br/>
     <img src="Screenshots/Screenshot2.png" width="800">
 </div>
