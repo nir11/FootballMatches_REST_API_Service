@@ -1,9 +1,9 @@
 # Football Matches fixtures &amp; results - RESTful API Service (implemented in Node.js)
 
-This project provides a football game service wich allows the customer clients can use to get the fixtures (upcoming
+This project provides a football game service wich allows the client to get the fixtures (upcoming
 matches) and the results of football matches.
 
-This restful api service is implemented in: http://localhost:3000/
+the restful api service is implemented in: http://localhost:3000/
 <br/>
 The system provides 4 different methods:
 <br/>
