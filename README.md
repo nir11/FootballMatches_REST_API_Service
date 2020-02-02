@@ -21,7 +21,7 @@ For this project I used to following tools:
 <br/>
 •	node.js
 <br/>
-•	csvtojson
+•	csvtojson module
 <br/>
 •	d3.js (for data filtering)
 
