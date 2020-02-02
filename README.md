@@ -3,7 +3,7 @@
 This project provides a football game service wich allows the customer clients can use to get the fixtures (upcoming
 matches) and the results of football matches.
 
-This restful api service is implemented in: http://localhost:3000/\
+This restful api service is implemented in: http://localhost:3000/
 <br/>
 The system provides 4 different methods:
 <br/>
@@ -46,7 +46,7 @@ For this project I used to following tools:
     <span>4. Open your browser.
           </span>
             <br/>    <br/>
-        <span>5. Navigate to: http://localhost:3000/...
+        <span>5. Navigate to: http://localhost:3000/
           </span>
             <br/>    <br/>
     <h5>•   Get a list of matches by team:            
