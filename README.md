@@ -4,7 +4,6 @@ This project provides a football game service wich allows the client to get the 
 matches) and the results of football matches from 2 csv files:
 1.	result_played.csv
 2.	result_upcoming.csv
-<br/>
 
 the restful api service is implemented in: http://localhost:3000/
 <br/>
