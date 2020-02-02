@@ -2,9 +2,7 @@
 
 This project provides a football game service wich allows the client to get the fixtures (upcoming
 matches) and the results of football matches from 2 csv files:
-<br/>
 1.	result_played.csv
-<br/>
 2.	result_upcoming.csv
 <br/>
 
