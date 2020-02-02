@@ -5,7 +5,7 @@ matches) and the results of football matches from 2 csv files:
 1.	result_played.csv
 2.	result_upcoming.csv
 
-the restful api service is implemented in: http://localhost:3000/
+The restful api service is running on port 3000.
 <br/>
 The system provides 4 different methods:
 <br/>
