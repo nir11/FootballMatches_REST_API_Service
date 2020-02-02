@@ -30,7 +30,7 @@ For this project I used to following tools:
 <h2>Instructions:</h2>
 <br/>                                                                                                                              
 <div>
-    <span>1. Extract "FootballMatches_REST_API_Service_Node.js" folder and open it.
+    <span>1. Extract "FootballMatches_REST_API_Service_Node" folder and open it.
     </span>
         <br/>    <br/>
     <span>2. Open the command prompt from the folder path.
