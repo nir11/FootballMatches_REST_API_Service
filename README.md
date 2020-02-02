@@ -40,15 +40,31 @@ For this project I used to following tools:
     <img src="Screenshots/Screenshot1.png" width="800">
     <br/>    <br/>        
 </div>
-<span>=================================================================================</span>
 <div>
     <h5>4. Open your browser.
           </h5>
         <h5>5. Navigate to: http://localhost:3000/
           </h5>
-    <h5>6. •	Get a list of matches by team:            
+    <h5>•   Get a list of matches by team:            
           </h5>
     <br/>
     <img src="Screenshots/Screenshot2.png" width="800">
 </div>
-
+<div>
+    <h5>•   Get a list of matches by team & status (played/upcoming):             
+          </h5>
+    <br/>
+    <img src="Screenshots/Screenshot3.png" width="400">
+    <img src="Screenshots/Screenshot4.png" width="400"></div>
+<div>
+    <h5>•   Get a list of matches by tournament:             
+          </h5>
+    <br/>
+    <img src="Screenshots/Screenshot5.png" width="400">
+</div>
+<div>
+    <h5>•   Get a list of matches by tournament filtered by status:             
+          </h5>
+    <br/>
+    <img src="Screenshots/Screenshot6.png" width="400">
+    <img src="Screenshots/Screenshot7.png" width="400"></div></div>
