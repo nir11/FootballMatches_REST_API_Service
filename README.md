@@ -28,14 +28,17 @@ For this project I used to following tools:
 <h2>Instructions:</h2>
 <br/>                                                                                                                              
 <div>
-    <h5>1. Extract "FootballMatches_REST_API_Service_Node.js" folder and open it.
-    </h5>
-    <h5>2. Open the command prompt from the folder path.
-    </h5>
-    <h5>3. In order to set on the RESTful API Service - Write the following command in the console:
-    </h5>
-     <h5>node FootballGame.js
-    </h5>
+    <span>1. Extract "FootballMatches_REST_API_Service_Node.js" folder and open it.
+    </span>
+        <br/>
+    <span>2. Open the command prompt from the folder path.
+    </span>
+        <br/>
+    <span>3. In order to set on the RESTful API Service - Write the following command in the console:
+    </span>
+        <br/>
+     <span>node FootballGame.js
+    </span>
     <br/>
     <img src="Screenshots/Screenshot1.png" width="800">
     <br/>    <br/>        
@@ -43,7 +46,7 @@ For this project I used to following tools:
 <div>
     <h5>4. Open your browser.
           </h5>
-        <h5>5. Navigate to: http://localhost:3000/
+        <h5>5. Navigate to: http://localhost:3000/...
           </h5>
     <h5>•   Get a list of matches by team:            
           </h5>
@@ -51,20 +54,20 @@ For this project I used to following tools:
     <img src="Screenshots/Screenshot2.png" width="800">
 </div>
 <div>
-    <h5>•   Get a list of matches by team & status (played/upcoming):             
-          </h5>
+    <h3>•   Get a list of matches by team & status (played/upcoming):             
+          </h3>
     <br/>
     <img src="Screenshots/Screenshot3.png" width="400">
     <img src="Screenshots/Screenshot4.png" width="400"></div>
 <div>
-    <h5>•   Get a list of matches by tournament:             
-          </h5>
+    <h3>•   Get a list of matches by tournament:             
+          </h3>
     <br/>
     <img src="Screenshots/Screenshot5.png" width="400">
 </div>
 <div>
-    <h5>•   Get a list of matches by tournament filtered by status:             
-          </h5>
+    <h3>•   Get a list of matches by tournament filtered by status:             
+          </h3>
     <br/>
     <img src="Screenshots/Screenshot6.png" width="400">
     <img src="Screenshots/Screenshot7.png" width="400"></div></div>
