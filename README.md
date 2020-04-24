@@ -38,9 +38,8 @@ For this project I used to following tools:
         <br/>    <br/>
     <span>3. In order to set on the RESTful API Service - Write the following command in the console:
     </span>
-    ```bash
-        node FootballGame.js
-    ```
+    <h5>
+        node FootballGame.js </h5>
     <br/>
     <img src="Screenshots/Screenshot1.png" width="800">
     <br/>    <br/>        
